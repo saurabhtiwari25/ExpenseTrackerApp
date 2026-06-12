@@ -4,7 +4,9 @@ A clean, production-ready RESTful API for tracking personal expenses — built w
 
 ---
 ## Postman testing:
-<img width="1258" height="825" alt="image" src="https://github.com/user-attachments/assets/b6ce49f1-757c-4960-aa21-7447e36673b0" />
+
+<img width="1190" height="833" alt="image" src="https://github.com/user-attachments/assets/c0a0faca-e943-4aa4-8005-8dbd49417f37" />
+
 
 ## Features
 
