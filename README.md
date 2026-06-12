@@ -1,6 +1,6 @@
 # Personal Expense Tracker REST API
 
-A clean, production-ready RESTful API for tracking personal expenses — built with **Spring Boot 3.5.15**, **MongoDB**, and **Java 17**. Supports full CRUD operations with bean validation, Logging using @slf4j and proper HTTP status codes.
+A clean, production-ready RESTful API for tracking personal expenses — built with **Spring Boot 3.5.15**, **MongoDB**, and **Java 17**. Supports full CRUD operations with bean validation, Logging and proper HTTP status codes.
 
 ---
 ## Postman testing:
@@ -13,8 +13,9 @@ A clean, production-ready RESTful API for tracking personal expenses — built w
 -  Full **CRUD** operations (Create, Read, Update, Delete)
 -  **Bean Validation** with descriptive error messages
 -  **MongoDB** for flexible, schema-less document storage
--  Proper **HTTP status codes** (201, 204, 404, 400)
--  Existence checks on update and delete (prevents silent failures)
+-  Proper **HTTP status codes**
+-  Logging using @slf4j 
+-  Existence checks on update and delete
 -  Total expense calculation endpoint
 -  Clean layered architecture (Controller → Service → Repository)
 -  Lombok for boilerplate reduction
