@@ -65,15 +65,15 @@ Before running this project, make sure you have the following installed:
 
 | Tool | Purpose |
 |---|---|
-| **Java 17** (or higher) | Runtime environment |
+| **Java 17** (or above) | Runtime environment |
 | **Maven 3.9.11 | Dependency management and build |
 | **MongoDB | Database server |
 
 Verify installations:
 ```bash
-java -version        # Should show 17+
-mvn -version         # Should show 3.x
-mongosh --version    # Should connect to MongoDB
+java -version        
+mvn -version         
+mongosh --version    
 ```
 
 ---
@@ -82,7 +82,7 @@ mongosh --version    # Should connect to MongoDB
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/saurabhtiwari25/ExpenseTracker.git
+git clone https://github.com/saurabhtiwari25/ExpenseTrackerApp.git
 cd expense-tracker
 ```
 
@@ -111,7 +111,7 @@ The server will start at: **http://localhost:8080**
 
 ---
 
-## 🗄 Database Configuration
+## Database Configuration
 
 Configuration is defined in `src/main/resources/application.properties`:
 
