@@ -22,7 +22,7 @@ A clean, production-ready RESTful API for tracking personal expenses — built w
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Technology | Version | Purpose |
 |---|---|---|
