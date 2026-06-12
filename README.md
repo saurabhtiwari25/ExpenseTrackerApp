@@ -79,7 +79,7 @@ mongosh --version
 
 ---
 
-## ⚙ Setup & Installation
+## Setup & Installation
 
 ### 1. Clone the repository
 ```bash
